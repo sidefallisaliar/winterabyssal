@@ -9,7 +9,7 @@
 </p>
 
 
-<p align="center"><img width="400" src="https://file.garden/adIzTYUl0F9NXJnQ/Untitled462_20260923214521.png" align="left" width="300" /></p>
+<p align="center"><img width="390" src="https://file.garden/adIzTYUl0F9NXJnQ/Untitled462_20260923214521.png" align="left" width="300" /></p>
 
 
 
@@ -54,7 +54,7 @@ ${\textsf{\color{#af703d} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#c9955c} kam
     <br>
 
   
-  ${\textsf{\color{#ba7f42} dontㅤcopyㅤmyㅤskins , veryㅤsociallyㅤawkward }}$
+  ${\textsf{\color{#ba7f42} dontㅤcopyㅤmyㅤskins , veryㅤsociallyㅤawkward + anxious}}$
     <br>
 
   ${\textsf{\color{#412621} atㅤmcytㅤareaㅤorㅤrarelyㅤdocksㅤ }}$
