@@ -27,7 +27,9 @@
 
 ${\textsf{\color{#a29664} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#68434a} kami }}$  ${\textsf{\color{#977a5d} or  }}$  ${\textsf{\color{#80515a} sidefall }}$
     
- ✚ .   ${\textsf{\color{#7f3627} any }}$   ${\textsf{\color{#ddb99b} ♡ 𓈒 }}$  ${\textsf{\color{#b4763e} mirror }}$
+${\textsf{\color{#92715f} ✚ .  }}$ ${\textsf{\color{#49374d} any }}$   ${\textsf{\color{#a08563} ♡ 𓈒 }}$  ${\textsf{\color{#26142a} mirror }}$
+
+ ${\textsf{\color{#a08563}ㅤ𓈒‎ ㅤㅤ𓂃  }}$  ${\textsf{\color{#8d5c60} sp / so }}$ ${\textsf{\color{#49374d} 649 }}$ ${\textsf{\color{#68434a} 6w5 }}$
 
 </br>
 
@@ -82,16 +84,16 @@ ${\textsf{\color{#a29664} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#68434a} kam
 <tr>
 <td>
   <details>
-<summary>$\color{#6b334a}{\textsf{ㅤㅤㅤㅤㅤㅤInfoㅤㅤㅤㅤㅤ}}$</summary>
+<summary>$\color{#a08563}{\textsf{ㅤㅤㅤㅤㅤㅤInfoㅤㅤㅤㅤㅤ}}$</summary>
 　　　<br>
 
-  ${\textsf{\color{#a15937} c+hㅤisㅤalwaysㅤencouragedㅤ. w2i }}$
+  ${\textsf{\color{##8d5c60} c+hㅤisㅤalwaysㅤencouragedㅤ. w2i }}$
     <br>
 
-  ${\textsf{\color{#ba7f42} dontㅤcopyㅤmyㅤskins , veryㅤsociallyㅤawkward + anxious}}$
+  ${\textsf{\color{##977a5d} dontㅤcopyㅤmyㅤskins , veryㅤsociallyㅤawkward + anxious}}$
     <br>
 
-  ${\textsf{\color{#412621} atㅤmcytㅤareaㅤorㅤrarelyㅤdocksㅤ }}$
+  ${\textsf{\color{#68434a} atㅤmcytㅤareaㅤorㅤrarelyㅤdocksㅤ }}$
     <br>
     
 </details>
