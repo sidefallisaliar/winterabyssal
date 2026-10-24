@@ -1,7 +1,5 @@
 <div align="center">
 
-<p align="center"><img width="700" src="https://file.garden/adIzTYUl0F9NXJnQ/Untitled466_20260923221007.png" align="Center" width="300" /></p>
-
   
   
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=492131&style=plastic&label=fans) (//✚ . ^) ໒꒱
@@ -9,7 +7,7 @@
 </p>
 
 
-<p align="center"><img width="390" src="https://file.garden/adIzTYUl0F9NXJnQ/Untitled462_20260923214521.png" align="left" width="300" /></p>
+<p align="center"><img width="390" src="https://file.garden/adIzTYUl0F9NXJnQ/Untitled484_20261024235923.png" align="left" width="300" /></p>
 
 
 
@@ -30,20 +28,7 @@ ${\textsf{\color{#af703d} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#c9955c} kam
 
 
 
-<tr>
-<td>
-  <details>
-<summary>$\color{#9e5735}{\textsf{ㅤㅤㅤㅤㅤlinksㅤㅤㅤㅤㅤ}}$</summary>
-　　　<br>
-    
-[atabook](https://slushly.atabook.org)  𓈒  [prns.cc](https://pronouns.cc/@div_y)     𓂂  [straw](https://shamefully.straw.page/) 
-    <br>
 
-</details>
-  </td>
-  </tr>
-
-  
 <tr>
 <td>
   <details>
@@ -69,21 +54,25 @@ ${\textsf{\color{#af703d} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#c9955c} kam
 
   
 
-  <p align="center"><img width="377" src="https://file.garden/adIzTYUl0F9NXJnQ/Untitled464_20260922163038.png" align="Center" width="300" /></p>
-
-
-
-<p align="center"><img width="700" src="https://file.garden/adIzTYUl0F9NXJnQ/Untitled466_20260923221032.png" align="Center" width="300" /></p>
+  <p align="center"><img width="390" src="https://file.garden/adIzTYUl0F9NXJnQ/Untitled484_20261024235540.png" align="right" width="300" /></p>
 
 
 
 
 
 
+<tr>
+<td>
+  <details>
+<summary>$\color{#9e5735}{\textsf{ㅤㅤㅤㅤㅤlinksㅤㅤㅤㅤㅤ}}$</summary>
+　　　<br>
+    
+[atabook](https://slushly.atabook.org)  𓈒  [prns.cc](https://pronouns.cc/@div_y)     𓂂  [straw](https://shamefully.straw.page/) 
+    <br>
 
+</details>
+  </td>
+  </tr>
 
-
-
-
-
+  
 
