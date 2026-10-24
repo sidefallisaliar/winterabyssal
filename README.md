@@ -27,7 +27,7 @@
 
 ${\textsf{\color{#a29664} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#68434a} kami }}$  ${\textsf{\color{#977a5d} or  }}$  ${\textsf{\color{#80515a} sidefall }}$
     
-${\textsf{\color{#92715f} ✚ .  }}$ ${\textsf{\color{#49374d} any }}$   ${\textsf{\color{#a08563} ♡ 𓈒 }}$  ${\textsf{\color{#26142a} mirror }}$
+${\textsf{\color{#92715f} ✚ .  }}$ ${\textsf{\color{#49374d} any }}$   ${\textsf{\color{#a08563} ♡ 𓈒 }}$  ${\textsf{\color{#26142a} 15 }}$
 
  ${\textsf{\color{#a08563}ㅤ𓈒‎ ㅤㅤ𓂃  }}$  ${\textsf{\color{#8d5c60} sp / so }}$ ${\textsf{\color{#49374d} 649 }}$ ${\textsf{\color{#68434a} 6w5 }}$
 
