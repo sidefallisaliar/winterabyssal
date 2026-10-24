@@ -84,15 +84,12 @@ ${\textsf{\color{#92715f} ✚ .  }}$ ${\textsf{\color{#49374d} any }}$   ${\text
 <tr>
 <td>
   <details>
-<summary>$\color{#a08563}{\textsf{ㅤㅤㅤㅤㅤㅤInfoㅤㅤㅤㅤㅤ}}$</summary>
+<summary>$\color{#a08563}{\textsf{ㅤㅤㅤㅤㅤㅤInfoㅤㅤㅤㅤ✧ㅤ}}$</summary>
 　　　<br>
-
-  ${\textsf{\color{##8d5c60} c+hㅤisㅤalwaysㅤencouragedㅤ. w2i }}$
+  ${\textsf{\color{#8d5c60} c+hㅤisㅤalwaysㅤencouragedㅤ. w2i }}$
     <br>
-
-  ${\textsf{\color{##977a5d} dontㅤcopyㅤmyㅤskins , veryㅤsociallyㅤawkward + anxious}}$
+  ${\textsf{\color{#977a5d} dontㅤcopyㅤmyㅤskins , veryㅤsociallyㅤawkward + anxious}}$
     <br>
-
   ${\textsf{\color{#68434a} atㅤmcytㅤareaㅤorㅤrarelyㅤdocksㅤ }}$
     <br>
     
@@ -107,7 +104,7 @@ ${\textsf{\color{#92715f} ✚ .  }}$ ${\textsf{\color{#49374d} any }}$   ${\text
 <tr>
 <td>
   <details>
-<summary>$\color{#9e5735}{\textsf{ㅤㅤ♡ㅤㅤㅤlinksㅤㅤㅤㅤㅤ}}$</summary>
+<summary>$\color{#906861}{\textsf{ㅤㅤ♡ㅤㅤㅤlinksㅤㅤㅤㅤㅤ}}$</summary>
 　　　<br>
     
 [atabook](https://slushly.atabook.org)  𓈒  [prns.cc](https://pronouns.cc/@div_y)     𓂂  [straw](https://shamefully.straw.page/) 
