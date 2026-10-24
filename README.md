@@ -25,7 +25,7 @@
  ㅤ
  
 
-${\textsf{\color{#af703d} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#c9955c} kami }}$  or  ${\textsf{\color{#462621} winter }}$
+${\textsf{\color{#a29664} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#68434a} kami }}$  ${\textsf{\color{#977a5d} or  }}$  ${\textsf{\color{#80515a} sidefall }}$
     
  ✚ .   ${\textsf{\color{#7f3627} any }}$   ${\textsf{\color{#ddb99b} ♡ 𓈒 }}$  ${\textsf{\color{#b4763e} mirror }}$
 
