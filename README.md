@@ -2,7 +2,7 @@
 
   
   
-![](https://komarev.com/ghpvc/?username=your-github-username&color=492131&style=plastic&label=fans) (//✚ . ^) ໒꒱
+![](https://komarev.com/ghpvc/?username=your-github-username&color=492131&style=plastic&label=LAVA+RISING)
 
 </p>
 
@@ -29,11 +29,56 @@ ${\textsf{\color{#af703d} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#c9955c} kam
     
  ✚ .   ${\textsf{\color{#7f3627} any }}$   ${\textsf{\color{#ddb99b} ♡ 𓈒 }}$  ${\textsf{\color{#b4763e} mirror }}$
 
+</br>
+
+
+</br>
+
+
+</br>
 
 
 
 
 
+  
+
+  
+
+
+
+
+
+
+</br>
+<p align="center">
+    
+<img src="https://file.garden/adIzTYUl0F9NXJnQ/Untitled484_20261024235540.png" width="350" align="right"> 
+‎</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+   
+
+
+
+
+
+
+
+
+               
+
+
+   
+
+    
 <tr>
 <td>
   <details>
@@ -52,43 +97,6 @@ ${\textsf{\color{#af703d} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#c9955c} kam
 </details>
   </td>
   </tr>
-
-
-
-
-  
-
-  border here
-
-
-
-
-
-
-</br>
-<p align="center">
-    
-<img src="https://file.garden/adIzTYUl0F9NXJnQ/Untitled484_20261024235540.png" width="350" align="right"> 
-‎</br>
-</br>
-</br>
-
-
-   
-
-
-wtf do i put here
-
-
-
-
-
-               
-
-
-   
-
-    
 
 
 
