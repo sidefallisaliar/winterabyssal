@@ -24,11 +24,11 @@
   <table>
     <tr>
       <td>
-${\textsf{\color{#ecc3c0} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#29053c} kami }}$  ${\textsf{\color{#977a5d} or  }}$  ${\textsf{\color{#80515a} sidefall }}$   
+${\textsf{\color{#ecc3c0} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#29053c} kami }}$  ${\textsf{\color{#ecc3c0} or  }}$  ${\textsf{\color{#80515a} sidefall }}$   
         
-${\textsf{\color{#92715f} ✚ .  }}$ ${\textsf{\color{#49374d} any }}$   ${\textsf{\color{#a08563} ♡ 𓈒 }}$  ${\textsf{\color{#29053c} 15 }}$
+${\textsf{\color{#92715f} ✚ .  }}$ ${\textsf{\color{#49374d} any }}$   ${\textsf{\color{#ecc3c0} ♡ 𓈒 }}$  ${\textsf{\color{#29053c} 15 }}$
 
-${\textsf{\color{#a08563}ㅤ𓈒‎ ㅤㅤ𓂃  }}$  ${\textsf{\color{#8d5c60} sp / so }}$ ${\textsf{\color{#49374d} 649 }}$ ${\textsf{\color{#ecc3c0} 6w5 }}$<br>
+${\textsf{\color{#660d49}ㅤ𓈒‎ ㅤㅤ𓂃  }}$  ${\textsf{\color{#8d5c60} sp / so }}$ ${\textsf{\color{#49374d} 649 }}$ ${\textsf{\color{#ecc3c0} 6w5 }}$<br>
       </td>
     </tr>
   </table>
@@ -92,7 +92,7 @@ ${\textsf{\color{#a08563}ㅤ𓈒‎ ㅤㅤ𓂃  }}$  ${\textsf{\color{#8d5c60} s
 　　　<br>
   ${\textsf{\color{#29053c} c+hㅤisㅤalwaysㅤencouragedㅤ. w2i }}$
     <br>
-  ${\textsf{\color{#977a5d} dontㅤcopyㅤmyㅤskins , veryㅤsociallyㅤawkward + anxious}}$
+  ${\textsf{\color{#660d49} dontㅤcopyㅤmyㅤskins , veryㅤsociallyㅤawkward + anxious}}$
     <br>
   ${\textsf{\color{#ecc3c0} atㅤmcytㅤareaㅤorㅤrarelyㅤdocksㅤ }}$
     <br>
