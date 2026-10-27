@@ -2,16 +2,13 @@
 
   
   
-![](https://komarev.com/ghpvc/?username=your-github-username&color=492131&style=plastic&label=LAVA+RISING)
-
-</p>
-
-
-<img src= "https://files.catbox.moe/0zo8lp.png" width="900" align="left" >
+![](https://komarev.com/ghpvc/?username=your-github-username&color=492131&style=plastic&label=not+quite+human)
 
 </br>
 
-<img src= "https://file.garden/adIzTYUl0F9NXJnQ/Untitled484_20261025000336.png" width="400"  align="left">
+</br>
+
+<img src= "https://files.catbox.moe/fjsczk.png" width="400"  align="left">
 </br>
 
 
@@ -24,12 +21,19 @@
 
  ㅤ
  
-
+  <table>
+    <tr>
+      <td>
 ${\textsf{\color{#a29664} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#68434a} kami }}$  ${\textsf{\color{#977a5d} or  }}$  ${\textsf{\color{#80515a} sidefall }}$
     
 ${\textsf{\color{#92715f} ✚ .  }}$ ${\textsf{\color{#49374d} any }}$   ${\textsf{\color{#a08563} ♡ 𓈒 }}$  ${\textsf{\color{#26142a} 15 }}$
 
- ${\textsf{\color{#a08563}ㅤ𓈒‎ ㅤㅤ𓂃  }}$  ${\textsf{\color{#8d5c60} sp / so }}$ ${\textsf{\color{#49374d} 649 }}$ ${\textsf{\color{#68434a} 6w5 }}$
+ ${\textsf{\color{#a08563}ㅤ𓈒‎ ㅤㅤ𓂃  }}$  ${\textsf{\color{#8d5c60} sp / so }}$ ${\textsf{\color{#49374d} 649 }}$ ${\textsf{\color{#68434a} 6w5 }}$<br>
+      </td>
+    </tr>
+  </table>
+
+
 
 </br>
 
@@ -55,7 +59,7 @@ ${\textsf{\color{#92715f} ✚ .  }}$ ${\textsf{\color{#49374d} any }}$   ${\text
 </br>
 <p align="center">
     
-<img src="https://file.garden/adIzTYUl0F9NXJnQ/Untitled484_20261024235540.png" width="350" align="right"> 
+<img src="https://files.catbox.moe/fjsczk.png" width="350" align="right"> 
 ‎</br>
 </br>
 </br>
@@ -114,8 +118,4 @@ ${\textsf{\color{#92715f} ✚ .  }}$ ${\textsf{\color{#49374d} any }}$   ${\text
   </td>
   </tr>
 
-
-  <img src= "https://files.catbox.moe/dw5p62.png" width="900" align="left" >
-
-  
 
