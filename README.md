@@ -28,7 +28,7 @@ ${\textsf{\color{#ecc3c0} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#29053c} kam
         
 ${\textsf{\color{#92715f} ✚ .  }}$ ${\textsf{\color{#660d49} any }}$   ${\textsf{\color{#ecc3c0} ♡ 𓈒 }}$  ${\textsf{\color{#29053c} 15 }}$
 
-${\textsf{\color{#8d5c60} sp / so }}$ ${\textsf{\color{#49374d} 649 }}$ ${\textsf{\color{#ecc3c0} 6w5 }}$<br>  ${\textsf{\color{#660d49} (¬_¬") }}$
+${\textsf{\color{#8d5c60} sp / so }}$ ${\textsf{\color{#49374d} 649 }}$ ${\textsf{\color{#ecc3c0} 6w5 }}$<br>  ${\textsf{\color{#660d49} (｡>﹏<) }}$
       </td>
     </tr>
   </table>
