@@ -59,7 +59,7 @@ ${\textsf{\color{#92715f} ✚ .  }}$ ${\textsf{\color{#49374d} any }}$   ${\text
 </br>
 <p align="center">
     
-<img src="https://files.catbox.moe/fjsczk.png" width="350" align="right"> 
+<img src="https://files.catbox.moe/pdktu1.png" width="350" align="right"> 
 ‎</br>
 </br>
 </br>
