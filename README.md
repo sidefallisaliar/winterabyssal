@@ -24,11 +24,10 @@
   <table>
     <tr>
       <td>
-${\textsf{\color{#ecc3c0} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#29053c} kami }}$  ${\textsf{\color{#ecc3c0} or  }}$  ${\textsf{\color{#80515a} sidefall }}$   
+${\textsf{\color{#ecc3c0} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#29053c} kami }}$  ${\textsf{\color{#ecc3c0} or  }}$ ${\textsf{\color{#80515a} sidefall }}$   
         
 ${\textsf{\color{#92715f} ✚ .  }}$ ${\textsf{\color{#660d49} any }}$   ${\textsf{\color{#ecc3c0} ♡ 𓈒 }}$  ${\textsf{\color{#29053c} 15 }}$
-
-${\textsf{\color{#8d5c60} sp / so }}$ ${\textsf{\color{#49374d} 649 }}$ ${\textsf{\color{#ecc3c0} 6w5 }}$<br>  ${\textsf{\color{#660d49} (｡>﹏<) }}$
+${\textsf{\color{#8d5c60} sp / so }}$ ${\textsf{\color{#49374d} 649 }}$ ${\textsf{\color{#ecc3c0} 6w5 }}$ ${\textsf{\color{#660d49} (｡>﹏<) }}$<br>
       </td>
     </tr>
   </table>
