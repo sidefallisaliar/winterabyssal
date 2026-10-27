@@ -24,7 +24,7 @@
   <table>
     <tr>
       <td>
-${\textsf{\color{#ecc3c0} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#29053c} kami }}$  ${\textsf{\color{#ecc3c0} or  }}$ ${\textsf{\color{#80515a} sidefall }}$   
+${\textsf{\color{#ecc3c0} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#660d49} kami }}$  ${\textsf{\color{#ecc3c0} or  }}$ ${\textsf{\color{#80515a} sidefall }}$   
         
 ${\textsf{\color{#92715f} ✚ .  }}$ ${\textsf{\color{#660d49} any }}$   ${\textsf{\color{#ecc3c0} ♡ 𓈒 }}$  ${\textsf{\color{#29053c} 15 }}$
 
@@ -44,9 +44,10 @@ ${\textsf{\color{#8d5c60} sp / so }}$ ${\textsf{\color{#49374d} 649 }}$ ${\texts
 </br>
 
 
+</br>
 
 
-
+</br>
   
 
   
@@ -66,43 +67,11 @@ ${\textsf{\color{#8d5c60} sp / so }}$ ${\textsf{\color{#49374d} 649 }}$ ${\texts
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-   
+</br>   
 
 
 
-
-
-
-
-
-               
-
-
-   
-
-    
-<tr>
-<td>
-  <details>
-<summary>$\color{#751a53}{\textsf{ㅤㅤㅤㅤㅤㅤInfoㅤㅤㅤㅤ✧ㅤ}}$</summary>
-　　　<br>
-  ${\textsf{\color{#29053c} c+hㅤisㅤalwaysㅤencouragedㅤ. w2i }}$
-    <br>
-  ${\textsf{\color{#660d49} dontㅤcopyㅤmyㅤskins , veryㅤsociallyㅤawkward + anxious}}$
-    <br>
-  ${\textsf{\color{#ecc3c0} atㅤmcytㅤareaㅤorㅤrarelyㅤdocksㅤ }}$
-    <br>
-    
-</details>
-  </td>
-  </tr>
-
-
-
+${\textsf{\color{#49374d}“ what's a 'human being’ gotta be like ? ”}}$
 
 
 <tr>
