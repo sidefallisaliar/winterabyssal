@@ -31,15 +31,18 @@ ${\textsf{\color{#8d5c60} sp / so }}$ ${\textsf{\color{#49374d} 649 }}$ ${\texts
 
 
 </br>
-
-
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 
   <table>
     <tr>
       <td>
-      friendship's about trust, 
-      if we trust you , youre one of us.<br>
+      friendship's about trust ,<br>
+      if we trust you , youre one of us.
     ⠀⠀</td>
     </tr>
   </table>
