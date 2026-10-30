@@ -26,14 +26,14 @@
       <td>
 ${\textsf{\color{#ecc3c0} ꒰｡- ᴗ - ｡꒱ }}$ ${\textsf{\color{#660d49} kami }}$  ${\textsf{\color{#ecc3c0} or  }}$ ${\textsf{\color{#80515a} sidefall }}$   
         
-${\textsf{\color{#92715f} ✚ .  }}$ ${\textsf{\color{#660d49} any }}$   ${\textsf{\color{#ecc3c0} ♡ 𓈒 }}$  ${\textsf{\color{#29053c} 15 }}$
+${\textsf{\color{#92715f} ✚ .  }}$ ${\textsf{\color{#660d49} he , they}}$   ${\textsf{\color{#ecc3c0} ♡ 𓈒 }}$  ${\textsf{\color{#29053c} 15 }}$
 
 ${\textsf{\color{#8d5c60} sp / so }}$ ${\textsf{\color{#49374d} 649 }}$ ${\textsf{\color{#ecc3c0} 6w5 }}$ ${\textsf{\color{#660d49} (｡>﹏<) }}$<br>
       </td>
     </tr>
   </table>
 
-
+${\textsf{\color{#660d49}“ every  other  day  im  wondering , ”}}$
 
 </br>
 
@@ -71,7 +71,7 @@ ${\textsf{\color{#8d5c60} sp / so }}$ ${\textsf{\color{#49374d} 649 }}$ ${\texts
 
 
 
-${\textsf{\color{#49374d}“ what's a 'human being’ gotta be like ? ”}}$
+${\textsf{\color{#49374d}“ what's  a  'human being’  gotta  be  like  ? ”}}$
 
 
 <tr>
